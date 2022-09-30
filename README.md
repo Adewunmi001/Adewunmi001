@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **html, css, git**
 
-- 💬 Ask me about **html, css**
+- 💬 Ask me about **html, css, sass**
 
 - 📫 How to reach me **adewunmiayege001@gmail.com**
 
